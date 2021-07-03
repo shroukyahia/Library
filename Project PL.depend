@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600935673 source:c:\users\egypt1\desktop\hellocs\project pl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
